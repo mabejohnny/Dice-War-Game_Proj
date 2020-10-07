@@ -1,3 +1,3 @@
-# WarGame_Proj
+# DiceWar_Proj
 Dice - Game 
  
