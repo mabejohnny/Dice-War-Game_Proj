@@ -1,2 +1,3 @@
-# WarGameProj
+# WarGame_Proj
+Dice - Game 
  
